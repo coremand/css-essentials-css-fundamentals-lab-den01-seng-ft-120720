@@ -30,6 +30,7 @@ div {
   text-align: center;
   width: 800px;
   margin:auto;
+  padding-bottom: 5px;
 }
 figcaption {
   text-align: center;
